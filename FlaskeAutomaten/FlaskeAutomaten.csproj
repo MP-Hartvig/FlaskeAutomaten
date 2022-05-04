@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BeerConsumer.cs" />
+    <Compile Include="BottleProduction.cs" />
+    <Compile Include="Bottles.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SodaConsumer.cs" />
+    <Compile Include="Splitter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
